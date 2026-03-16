@@ -37,3 +37,31 @@ class TaskManager:
         if 0 <= index < len(self.tasks):
             self.tasks[index].completed = not self.tasks[index].completed
             self.save()
+
+
+
+    # -------- Search --------
+ 
+    def search(self, keyword):
+        return [
+            task for task in self.tasks
+            if keyword.lower() in task.title.lower()
+        ]
+
+ 
+ 
+    # -------- Sort --------
+ 
+    def sort_by_priority(self):
+        priority_order = {"High": 1, "Medium": 2, "Low": 3}
+        self.tasks.sort(key=lambda t: priority_order[t.priority])
+
+ 
+ 
+    # -------- Report --------
+ 
+    def get_report(self):
+        total = len(self.tasks)
+        completed = len([t for t in self.tasks if t.completed])
+        pending = total - completed
+        return total, completed, pending
