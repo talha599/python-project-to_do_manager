@@ -189,19 +189,13 @@ Include the following in your project report:
 
 # 👨‍💻 Author 1
 
-Your Name: Muhammad Talha Islam
+Name: Muhammad Talha Islam
 Email: 22-49599-3@student.aiub.edu
-Course: Programming in Python
-Project: To-Do Manager
-
 ---
 
 
 # 👨‍💻 Author 2
 
-Your Name: Wafa
+Name: Wafa
 Email: 22-49542-3@student.aiub.edu
-Course: Programming in Python
-Project: To-Do Manager
-
 ---
