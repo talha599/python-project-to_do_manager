@@ -1,7 +1,29 @@
 # 📝 To-Do Manager (with Priority Python Desktop GUI)
 
-A modern **Python Desktop GUI application** to manage daily tasks with priority, due dates, search, and productivity reports.
-Built using **customtkinter**.
+# 📝 Project Description
+
+## To-Do Manager with Priority (Python Desktop GUI Application)
+
+### 📌 Overview
+
+The **To-Do Manager with Priority** is a desktop-based task management application developed using Python and the `customtkinter` GUI library. The application allows users to efficiently organize, track, and manage daily tasks with priority levels and due dates.
+
+This project is designed using proper **Object-Oriented Programming (OOP)** principles and follows a modular architecture where each component (model, manager, storage, and UI controller) is separated into different files for maintainability and scalability.
+
+The system ensures data persistence using a JSON file, meaning all tasks remain saved even after restarting the application.
+
+---
+
+### 🎯 Objective
+
+The main objective of this project is to:
+
+* Develop a structured desktop application using Python.
+* Implement CRUD operations with proper validation.
+* Apply OOP concepts in a real-world system.
+* Store and retrieve data using JSON.
+* Provide task tracking with summary reporting.
+
 
 ---
 
