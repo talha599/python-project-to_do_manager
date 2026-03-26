@@ -93,6 +93,7 @@ class App(ctk.CTk):
 
         win = ctk.CTkToplevel(self)
         win.title("Add Task")
+        win.geometry("350x250")
 
         title = ctk.CTkEntry(win, placeholder_text="Task Title")
         title.pack(pady=5)
@@ -130,6 +131,7 @@ class App(ctk.CTk):
 
         win = ctk.CTkToplevel(self)
         win.title("Report")
+        win.geometry("350x250")
 
         report_text = f"""
 Total Tasks: {total}
