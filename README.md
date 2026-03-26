@@ -1,7 +1,7 @@
 # 📝 To-Do Manager (with Priority Python Desktop GUI)
 
 A modern **Python Desktop GUI application** to manage daily tasks with priority, due dates, search, and productivity reports.
-Built using **customtkinter** and structured with proper **OOP architecture**.
+Built using **customtkinter**.
 
 ---
 
@@ -10,7 +10,6 @@ Built using **customtkinter** and structured with proper **OOP architecture**.
 ### ✅ Core Features
 
 * Add Task
-* Edit Task *(optional upgrade)*
 * Delete Task
 * Mark Task as Completed
 * View Task List
@@ -53,20 +52,6 @@ todo_manager/
 └── requirements.txt # Dependencies
 ```
 
----
-
-# 🧠 OOP Design
-
-This project follows Object-Oriented Programming principles:
-
-| Class       | Role                                 |
-| ----------- | ------------------------------------ |
-| Task        | Entity class (data model)            |
-| TaskManager | Handles logic (CRUD, search, report) |
-| JsonStorage | Handles file storage                 |
-| App         | GUI controller                       |
-
----
 
 # ⚙️ Setup Instructions
 
@@ -75,8 +60,8 @@ This project follows Object-Oriented Programming principles:
 Download the project folder or clone from Git:
 
 ```
-git clone <your-repo-link>
-cd todo_manager
+git clone (https://github.com/talha599/python-project-to_do_manager)
+code .
 ```
 
 ---
@@ -128,15 +113,39 @@ python main.py
 
 ---
 
-# 📸 Screens (for Demo)
+# 📸 Screenshots of To-Do Manager: 
+1.	Dashboard (Task List)
+ 
 
-Include screenshots of:
 
-1. Dashboard (Task List)
-2. Add Task Window
-3. Search Result
-4. Report Window
-5. Completed Task View
+
+
+
+2.	Add Task Window
+ 
+
+
+3.	Search Result
+ 
+
+
+
+4.	Sort Window
+ 
+
+
+
+5.	Report Window
+ 
+
+
+
+
+
+
+6.	Completed Task View
+ 
+
 
 ---
 
@@ -153,21 +162,7 @@ Include screenshots of:
 ]
 ```
 
----
 
-# 📄 Report (For Submission)
-
-Include the following in your project report:
-
-* Project Title
-* Track Name (Desktop GUI App)
-* Features list
-* Setup & run steps
-* OOP explanation
-* Screenshots (3–5)
-* Data persistence explanation
-
----
 
 # ⚠️ Notes
 
