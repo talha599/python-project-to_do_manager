@@ -116,36 +116,30 @@ python main.py
 # 📸 Screenshots of To-Do Manager: 
 1.	Dashboard (Task List)
  
-
-
-
-
+<img width="779" height="592" alt="image" src="https://github.com/user-attachments/assets/b21fd950-0531-4d30-b574-4f256ce4c7f0" />
 
 2.	Add Task Window
  
-
+<img width="666" height="537" alt="image" src="https://github.com/user-attachments/assets/b6397d4b-e44a-4524-9f3c-20b2dc38805f" />
 
 3.	Search Result
  
-
+<img width="851" height="400" alt="image" src="https://github.com/user-attachments/assets/20127140-788d-467d-9b09-92c9d6ae7f9d" />
 
 
 4.	Sort Window
  
-
+<img width="851" height="400" alt="image" src="https://github.com/user-attachments/assets/bdd2ba86-da23-44ef-8d7b-5ab84e56bb4e" />
 
 
 5.	Report Window
  
-
-
-
-
+<img width="774" height="381" alt="image" src="https://github.com/user-attachments/assets/489c31b5-faa3-49cb-9b8d-4dbfa0ef7027" />
 
 
 6.	Completed Task View
- 
-
+   
+ <img width="802" height="500" alt="image" src="https://github.com/user-attachments/assets/b652f7e4-927d-4ffc-909b-1e6c91325d25" />
 
 ---
 
@@ -156,7 +150,7 @@ python main.py
   {
     "title": "Finish Assignment",
     "priority": "High",
-    "due_date": "2026-03-20",
+    "due_date": "2026-03-28",
     "completed": false
   }
 ]
